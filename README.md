@@ -1,2 +1,2 @@
 # its-me
-My Personal wesite
+My Personal Website = https://putriisabellaa.github.io/its-me/
